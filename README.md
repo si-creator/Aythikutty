@@ -1,3 +1,0 @@
-# Aythikutty
-AYTHIKA
-git rm
