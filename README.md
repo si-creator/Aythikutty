@@ -1,2 +1,3 @@
 # Aythikutty
 AYTHIKA
+git rm
